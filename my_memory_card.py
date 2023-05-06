@@ -118,6 +118,7 @@ questions_list.append(Question('−•− •− −•−   −−•• −−
 questions_list.append(Question('Продам тапок', 'где купить', 'какая цена', 'кирпич', 'Польша'))
 questions_list.append(Question('Продам Вадима алгоритмика', 'Куплю за ответы', 'Куплю за попит', 'Куплю за лампочку', 'Олег'))
 questions_list.append(Question('Христос воскрес', 'Ок', 'спрингтруп?', 'ааа мшкм фреде', 'пон'))
+questions_list.append(Question('Как зовут Александра', 'Александр', 'Александра', 'Олег', 'Противотанковая самоходная артиллерийская установка «Мардер» III Ausf. М (Sd.Kfz.138). Чехословакия/Германия'))
 button.clicked.connect(click_ok)
 main_win.score = 0
 main_win.total = 0
